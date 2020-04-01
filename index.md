@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/sam_apples_cropped.jpg" caption="Sept 2016" width="300px" align="right" %}
+{% include image.html url="images/sam_apples_cropped.jpg" width="300px" align="right" %}
 
 I am a Computer Science PhD student advised by [George Konidaris], in the [Intelligent Robot Lab] at [Brown University]. Generally, I am interested in understanding the implicit assumptions which make the real world's infinite possibilities manageable to learners such as ourselves.
 
