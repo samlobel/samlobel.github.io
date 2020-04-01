@@ -293,7 +293,7 @@ title: Research
 **{{pub.title}}**<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}*  [[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %} {% if pub.pdf %}[[pdf]({{pub.pdf}})]{% endif %}
+{% endif %} *{{pub.year}}*  [[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %} {% if pub.pdf %}[[pdf]({{pub.pdf}})]{% endif %} {% if pub.code %}[[code]({{pub.code}})]{% endif %}
 
 {% endfor %}
 

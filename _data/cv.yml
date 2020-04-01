@@ -140,6 +140,7 @@ publications:
       url: https://openreview.net/forum?id=HJxR7R4FvS
       pdf: https://openreview.net/attachment?id=HJxR7R4FvS&name=original_pdf
       doi:
+      code: https://github.com/samlobel/RaCT_CF
     - title: "Tunable Depletion Potentials Driven by Shape Variation of Surfactant Micelles"
       author:  "M. Gratale, T. Still, C. Matyas, Z. Davidson, S. Lobel, P. Collins, A. Yodh"
       journal: Physical review E
@@ -148,6 +149,7 @@ publications:
       url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.93.050601
       pdf: https://works.swarthmore.edu/cgi/viewcontent.cgi?article=1277&context=fac-physics
       doi:
+      code:
     #   - title:   Editable parametric dense foliage from 3D capture
     #   author:  G. Chaurasia, P. Beardsley
     #   journal: IEEE International Conference on Computer Vision
