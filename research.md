@@ -279,7 +279,7 @@ title: Research
 
 <!-- Jump to [Publications](#peer-reviewed-publications), [Thesis](#doctoral-thesis), [Media](#media-coverage), [Reviewing](#professional-service) -->
 
-<!-- --- -->
+---
 
 ## Peer reviewed publications
 
