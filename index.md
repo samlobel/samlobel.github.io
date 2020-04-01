@@ -12,7 +12,8 @@ I am a Computer Science PhD student advised by [George Konidaris], in the [Intel
 I graduated from the University of Pennsylvania in 2015, where I studied Physics, Math, and a very little bit of Computer Science. Between then and graduate school I held a variety of jobs as a programmer while also gearing up for my current post.
 
 
-Email: [samuel_lobel@brown.edu]
+Email: [samuel_lobel@brown.edu] 
+
 Google Scholar: [here]
 
 
