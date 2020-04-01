@@ -20,3 +20,4 @@ Google Scholar: [here]
 [Intelligent Robot Lab]: http://irl.cs.brown.edu/
 [here]: https://scholar.google.com/citations?user=H8gdqsUAAAAJ&hl=en
 [samuel_lobel@brown.edu]: mailto:gaurav.chaurasia@oculus.com
+[Brown University]: https://cs.brown.edu/
