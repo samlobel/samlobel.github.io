@@ -133,12 +133,20 @@ awards:
 
 publications:
     - title: "RaCT: Toward Amortized Ranking-Critical Training For Collaborative Filtering"
-      author:  "**S. Lobel**, C. Li, J. Gao, L. Carin"
+      author:  "S. Lobel, C. Li, J. Gao, L. Carin"
       journal: International Conference on Learning Representations
       note:
       year: 2020
       url: https://openreview.net/forum?id=HJxR7R4FvS
       pdf: https://openreview.net/attachment?id=HJxR7R4FvS&name=original_pdf
+      doi:
+    - title: "Tunable depletion potentials driven by shape variation of surfactant micelles"
+      author:  "M. Gratale, T. Still, C. Matyas, Z. Davidson, S. Lobel, P. Collins, A. Yodh"
+      journal: Physical review E
+      note:
+      year: 2016
+      url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.93.050601
+      pdf: https://works.swarthmore.edu/cgi/viewcontent.cgi?article=1277&context=fac-physics
       doi:
     #   - title:   Editable parametric dense foliage from 3D capture
     #   author:  G. Chaurasia, P. Beardsley
