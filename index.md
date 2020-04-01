@@ -4,33 +4,19 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/profile_1.jpg" caption="Sept 2016" width="300px" align="right" %}
+{% include image.html url="images/sam_apples_cropped.jpg" caption="Sept 2016" width="300px" align="right" %}
 
-I work at [Oculus] on VR and related problems.
-I was a postdoc first at [MIT] with [Fredo Durand] and [Sylvain Paris],
-and then in the vision and robotics group at [Disney Research Zurich]. I completed
-my PhD under the guidance of [George Drettakis] at [INRIA] in the beautiful French
-Riviera. I obtained my Masters degree in computer science at [ENSIMAG]. In an
-earlier life, I used to be an undergrad at [Indian Institute of Technology Delhi].
+I am a Computer Science PhD student advised by [George Konidaris], in the [Intelligent Robot Lab] at [Brown University]. Generally, I am interested in understanding the assumptions which make the real world's nearly infinite possibilities manageable to learners such as ourselves.
 
-Email: [gaurav.chaurasia@oculus.com] (Oculus/Facebook related communication) <br />
-Email: [gchauras@csail.mit.edu] (others)
 
-You can find some professional details about me on [Google Scholar].
+I graduated from the University of Pennsylvania in 2015, where I studied Physics, Math, and a very little bit of Computer Science. Between then and graduate school I held a variety of jobs as a programmer while also gearing up for my current post.
 
-My [academic lineage](files/GauravChaurasia_academic_lineage.pdf)
-includes some Gods (courtesy [Peter Vangorp]).
 
-[Disney Research Zurich]: http://www.disneyresearch.com/research-labs/disney-research-zurich/
-[INRIA]: https://team.inria.fr/graphdeco/
-[Indian Institute of Technology Delhi]: http://www.cse.iitd.ac.in
-[George Drettakis]: http://www-sop.inria.fr/members/George.Drettakis
-[ENSIMAG]: http://ensimag.grenoble-inp.fr
-[Fredo Durand]: http://people.csail.mit.edu/fredo/
-[Sylvain Paris]: http://people.csail.mit.edu/sparis/
-[MIT]: http://www.csail.mit.edu/
-[Oculus]: https://www.oculus.com/
-[Google Scholar]: http://scholar.google.com/citations?user={{site.author.scholar}}&hl=en&oi=ao
-[gchauras@csail.mit.edu]: mailto:gchauras@csail.mit.edu
-[gaurav.chaurasia@oculus.com]: mailto:gaurav.chaurasia@oculus.com
-[Peter Vangorp]: http://users.telenet.be/pvangorp/
+Email: [samuel_lobel@brown.edu]
+Google Scholar: [here]
+
+
+[George Konidaris]: http://cs.brown.edu/people/gdk/
+[Intelligent Robot Lab]: http://irl.cs.brown.edu/
+[here]: https://scholar.google.com/citations?user=H8gdqsUAAAAJ&hl=en
+[samuel_lobel@brown.edu]: mailto:gaurav.chaurasia@oculus.com
