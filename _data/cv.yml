@@ -133,7 +133,7 @@ awards:
 
 publications:
     - title: "RaCT: Toward Amortized Ranking-Critical Training For Collaborative Filtering"
-      author:  S. Lobel, C. Li, J. Gao, L. Caron
+      author:  "**S. Lobel**, C. Li, J. Gao, L. Carin"
       journal: International Conference on Learning Representations
       note:
       year: 2020
