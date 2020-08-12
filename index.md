@@ -19,5 +19,5 @@ Google Scholar: [here]
 [George Konidaris]: http://cs.brown.edu/people/gdk/
 [Intelligent Robot Lab]: http://irl.cs.brown.edu/
 [here]: https://scholar.google.com/citations?user=H8gdqsUAAAAJ&hl=en
-[samuel_lobel@brown.edu]: mailto:gaurav.chaurasia@oculus.com
+[samuel_lobel@brown.edu]: mailto:samuel_lobel@brown.edu
 [Brown University]: https://cs.brown.edu/
