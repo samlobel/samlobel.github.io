@@ -137,8 +137,8 @@ publications:
       journal: Association for the Advancement of Artificial Intelligence
       note:
       year: 2022
-      url:
-      pdf: http://irl.cs.brown.edu/pubs/optinit_explore_control.pdf
+      url: https://aaai-2022.virtualchair.net/poster_aaai12846
+      pdf: https://www.aaai.org/AAAI22Papers/AAAI-12846.LobelS.pdf
       doi:
     - title: "RaCT: Toward Amortized Ranking-Critical Training For Collaborative Filtering"
       author:  "S. Lobel, C. Li, J. Gao, L. Carin"
@@ -146,7 +146,7 @@ publications:
       note:
       year: 2020
       url: https://iclr.cc/virtual_2020/poster_HJxR7R4FvS.html
-      pdf: https://openreview.net/attachment?id=HJxR7R4FvS&name=original_pdf
+      pdf: https://openreview.net/pdf?id=HJxR7R4FvS
       doi:
       presentation: https://www.youtube.com/watch?v=cEecLq0EM0g&t=1820s
       code: https://github.com/samlobel/RaCT_CF
