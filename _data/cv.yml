@@ -132,6 +132,20 @@ awards:
       detail: All India Rank 54 in IIT-JEE 2005 (entrance examination for Indian Institutes of Technology) amongst nearly 300,000 aspirants.
 
 publications:
+    - title: "Flipping Coins to Estimate Pseudocounts for Exploration in Reinforcement Learning"
+      author:  "S. Lobel, A. Bagaria, G. Konidaris"
+      journal: 5th Multidisciplinary Conference on Reinforcement Learning and Decision Making
+      note:
+      year: 2022
+      pdf: /files/CoinFlipExplorationRLDM.pdf
+      doi:
+    - title: "Q-Functionals for Efficient Value-Based Continuous Control"
+      author:  "S. Rammohan, B. He, S. Yu, S. Lobel, G. Konidaris"
+      journal: 5th Multidisciplinary Conference on Reinforcement Learning and Decision Making
+      note:
+      year: 2022
+      pdf: /files/QFunctionalsRLDM.pdf
+      doi:
     - title: "Optimistic Initialization for Exploration in Continuous Control"
       author:  "S. Lobel, A. Bagaria, C. Allen, O. Gottesman, G. Konidaris"
       journal: Association for the Advancement of Artificial Intelligence
