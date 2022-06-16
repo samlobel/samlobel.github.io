@@ -152,7 +152,7 @@ publications:
       note:
       year: 2022
       url: https://aaai-2022.virtualchair.net/poster_aaai12846
-      pdf: https://www.aaai.org/AAAI22Papers/AAAI-12846.LobelS.pdf
+      pdf: /files/OptInitAAAI_Appendix.pdf
       doi:
     - title: "RaCT: Toward Amortized Ranking-Critical Training For Collaborative Filtering"
       author:  "S. Lobel, C. Li, J. Gao, L. Carin"
