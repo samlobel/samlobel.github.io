@@ -132,6 +132,15 @@ awards:
       detail: All India Rank 54 in IIT-JEE 2005 (entrance examination for Indian Institutes of Technology) amongst nearly 300,000 aspirants.
 
 publications:
+    - title: "Flipping Coins to Estimate Pseudocounts for Exploration in Reinforcement Learning"
+      author:  "S. Lobel, A. Bagaria, G. Konidaris"
+      journal: International Conference on Machine Learning
+      note:
+      year: 2023
+      pdf: /files/CoinFlipICML.pdf
+      doi:
+      second_pub_note: "Previously presented at the Conference on Reinforcement Learning and Decision Making, 2021"
+      second_pub_pdf: /files/CoinFlipExplorationRLDM.pdf
     - title: "Q-Functionals for Value-Based Continuous Control"
       author:  "S. Lobel, S. Rammohan, B. He, S. Yu, G. Konidaris"
       journal: "Association for the Advancement of Artificial Intelligence"
@@ -139,17 +148,20 @@ publications:
       year: 2023
       pdf: /files/QFunctionalsAAAI.pdf
       doi:
+      second_pub_note: "Previously presented at the Conference on Reinforcement Learning and Decision Making, 2021"
+      second_pub_pdf: /files/QFunctionalsRLDM.pdf
     - title: "Coarse-Grained Smoothness for Reinforcement Learning in Metric Spaces"
       author:  "O. Gottesman, K. Asadi, C. Allen, S. Lobel, G. Konidaris, M. Littman"
       journal: International Conference on Artificial Intelligence and Statistics
       year: 2023
-    - title: "Flipping Coins to Estimate Pseudocounts for Exploration in Reinforcement Learning"
-      author:  "S. Lobel, A. Bagaria, G. Konidaris"
-      journal: 5th Multidisciplinary Conference on Reinforcement Learning and Decision Making
-      note:
-      year: 2022
-      pdf: /files/CoinFlipExplorationRLDM.pdf
-      doi:
+      pdf: /files/CoarseGrainedSmoothnessAISTAT.pdf
+    # - title: "Flipping Coins to Estimate Pseudocounts for Exploration in Reinforcement Learning"
+    #   author:  "S. Lobel, A. Bagaria, G. Konidaris"
+    #   journal: 5th Multidisciplinary Conference on Reinforcement Learning and Decision Making
+    #   note:
+    #   year: 2022
+    #   pdf: /files/CoinFlipExplorationRLDM.pdf
+    #   doi:
     # - title: "Q-Functionals for Efficient Value-Based Continuous Control"
     #   author:  "S. Rammohan, B. He, S. Yu, S. Lobel, G. Konidaris"
     #   journal: 5th Multidisciplinary Conference on Reinforcement Learning and Decision Making

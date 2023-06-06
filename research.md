@@ -294,7 +294,8 @@ title: Research
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
 {% endif %} *{{pub.year}}*  {% if pub.url %}[[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})]{% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %} {% if pub.pdf %}[[pdf]({{pub.pdf}})]{% endif %} {% if pub.code %}[[code]({{pub.code}})]{% endif %} {% if pub.presentation %}[[video]({{pub.presentation}})]{% endif %}
-
+{% if pub.second_pub_note %}<!-- <br /> -->{{pub.second_pub_note}} [[pdf]({{pub.second_pub_pdf}})]
+{% endif %}
 {% endfor %}
 
 <!-- -----
