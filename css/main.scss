@@ -58,5 +58,14 @@ $desktop:          50em;
     "footer",
     "page",
     "syntax-highlighting",
-    "fancy-image"
+    "fancy-image",
+    "sam-stuff"
 ;
+
+.bootstrap {
+    @import
+        "bootstrap",
+        "bootstrap-social"//,
+        // "font-awesome"
+    ; 
+}

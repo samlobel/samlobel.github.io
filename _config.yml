@@ -12,7 +12,51 @@ exclude: ["Makefile", "README.md"]
 
 author:
     name: Sam Lobel
-    # scholar: pBaL_DgAAAAJ
+    email: samuel_lobel@brown.edu
+    github: samlobel
+    googlescholar: H8gdqsUAAAAJ
+
+footer-links-active:
+    rss: false
+    facebook: false
+    email: true
+    twitter: false
+    googleplus: false
+    googlescholar: true
+    github: true
+    reddit: false
+    linkedin: true
+    xing: false
+    stackoverflow: false
+    snapchat: false
+    instagram: false
+    youtube: false
+    spotify: false
+    telephone: false
+    steam: false
+    twitch: false
+    yelp: false
+    cv: true
+#   rss: false
+#   facebook: false
+#   email: true
+#   twitter: true
+#   googleplus: false
+#   googlescholar: true
+#   github: true
+#   reddit: false
+#   linkedin: true
+#   xing: false
+#   stackoverflow: false
+#   snapchat: false
+#   instagram: false
+#   youtube: false
+#   spotify: false
+#   telephone: false
+#   steam: false
+#   twitch: false
+#   yelp: false
+#   cv: true
 
 # Build settings
 markdown: kramdown
