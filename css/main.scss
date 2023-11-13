@@ -26,8 +26,10 @@ $grey-vdark: #222;
 $blue:       #0091ed;
 $orange:     #ca6c18;
 $red:        #b6321c;
+$background-red:        #fef8f8;
 
-$background:        $grey-vlight;
+// $background:        $grey-vlight;
+$background: $background-red;
 $dark-background:   darken($background, 5%);
 $text-color:        $grey-vdark;
 $text-light-color:  $grey;
