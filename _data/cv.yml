@@ -139,6 +139,8 @@ publications:
       year: 2023
       pdf: /files/CoinFlipICML.pdf
       doi:
+      presentation: https://www.youtube.com/watch?v=2bLy1NdhsSA
+      code: https://github.com/samlobel/CFN
       second_pub_note: "Previously presented at the Conference on Reinforcement Learning and Decision Making, 2021"
       second_pub_pdf: /files/CoinFlipExplorationRLDM.pdf
     - title: "Q-Functionals for Value-Based Continuous Control"
