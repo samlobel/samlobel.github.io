@@ -185,7 +185,7 @@ publications:
       url: https://iclr.cc/virtual_2020/poster_HJxR7R4FvS.html
       pdf: https://openreview.net/pdf?id=HJxR7R4FvS
       doi:
-      presentation: https://www.youtube.com/watch?v=cEecLq0EM0g&t=1820s
+      presentation: https://www.youtube.com/watch?v=cEecLq0EM0g
       code: https://github.com/samlobel/RaCT_CF
     - title: "Tunable Depletion Potentials Driven by Shape Variation of Surfactant Micelles"
       author:  "M. Gratale, T. Still, C. Matyas, Z. Davidson, S. Lobel, P. Collins, A. Yodh"
