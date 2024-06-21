@@ -132,6 +132,14 @@ awards:
       detail: All India Rank 54 in IIT-JEE 2005 (entrance examination for Indian Institutes of Technology) amongst nearly 300,000 aspirants.
 
 publications:
+    - title: "An Optimal Tightness Bound for the Simulation Lemma"
+      author:  "S. Lobel, R. Parr"
+      journal: Reinforcement Learning Conference
+      note:
+      year: 2024
+      # url: https://aaai-2022.virtualchair.net/poster_aaai12846
+      pdf: /files/SimLemma.pdf
+      doi:
     - title: "Flipping Coins to Estimate Pseudocounts for Exploration in Reinforcement Learning"
       author:  "S. Lobel, A. Bagaria, G. Konidaris"
       journal: International Conference on Machine Learning
