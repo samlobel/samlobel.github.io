@@ -132,6 +132,14 @@ awards:
       detail: All India Rank 54 in IIT-JEE 2005 (entrance examination for Indian Institutes of Technology) amongst nearly 300,000 aspirants.
 
 publications:
+    - title: "Mitigating Partial Observability in Decision Processes via the Lambda Discrepancy"
+      author:  "C. Allen, A. Kirkland, R.Y. Tau, S. Lobel, D. Scott, N. Petrocelli, O. Gottesman, R. Parr, M.L. Littman, G. Konidaris"
+      journal: Neural Information Processing Systems
+      note:
+      year: 2024
+      # url: https://aaai-2022.virtualchair.net/poster_aaai12846
+      # pdf: /files/SimLemma.pdf
+      doi:
     - title: "An Optimal Tightness Bound for the Simulation Lemma"
       author:  "S. Lobel, R. Parr"
       journal: Reinforcement Learning Conference
